@@ -19,7 +19,8 @@ Imagine que uma equipe está desenvolvendo uma aplicação que possui um front-e
 3. **Fazendo Upload**: Um desenvolvedor cria uma imagem para o back-end e a envia para o registry:
    ```bash
    docker push meu-backend:1.0
-4.**Baixando Imagens**
+   
+4. **Baixando Imagens**
 
 Outro desenvolvedor, que trabalha no front-end, baixa a imagem do back-end do registry:
 
