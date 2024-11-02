@@ -1,4 +1,3 @@
-Aqui está a explicação, destacando o porquê de fazer upload de imagens para um repositório público no Docker Hub:
 
 ```markdown
 ### Por que Fazer Upload de Imagens para um Repositório Público no Docker Hub?
@@ -49,4 +48,3 @@ docker pull meu-usuario/meu-repositorio:tag
 Publicar imagens em um repositório público no Docker Hub facilita o acesso, promove a consistência, e permite colaboração eficiente em projetos de código aberto e entre equipes distribuídas.
 ```
 
-Esse formato ajuda a esclarecer os benefícios de ter um repositório público, especialmente quando o objetivo é colaborar com outras pessoas ou tornar uma aplicação amplamente acessível.
