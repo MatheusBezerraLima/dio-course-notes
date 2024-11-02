@@ -28,7 +28,7 @@ Outro desenvolvedor, que trabalha no front-end, baixa a imagem do back-end do re
 docker pull meu-backend:1.0
 ```
 
-5.**Implantação**
+5. **Implantação**
 Quando a equipe está pronta para lançar a aplicação, as imagens são puxadas do registry para o ambiente de produção.
 
 
