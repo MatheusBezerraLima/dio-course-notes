@@ -11,8 +11,8 @@
 - **Descrição:**
     - O comando solicita o **username** e a **senha** para autenticar o usuário no Docker Hub. É possível usar uma senha ou um Personal Access Token (PAT).
     - **Exemplo de entrada:**
-        - Username: `matheusbezerralima`
-        - Password: (informada pelo usuário)
+        - Username: `seu username do docker hub`
+        - Password: `sua senha do docker hub`
     - **Resultado:**
         - Login Succeeded (Login bem-sucedido).
 
