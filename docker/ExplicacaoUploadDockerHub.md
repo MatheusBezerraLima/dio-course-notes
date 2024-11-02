@@ -1,5 +1,4 @@
 
-```markdown
 ### Por que Fazer Upload de Imagens para um Repositório Público no Docker Hub?
 
 Fazer upload de imagens para um repositório público no Docker Hub pode ser vantajoso em várias situações. Isso ajuda no compartilhamento, colaboração e acessibilidade das imagens para qualquer desenvolvedor ou equipe que precise usá-las. Abaixo estão os principais benefícios:
