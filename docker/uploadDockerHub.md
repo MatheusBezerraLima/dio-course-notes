@@ -22,16 +22,16 @@
 
 - **Comando Executado:**
     ```bash
-    docker build . -t matheusbezerralima/my-go-app:1.0
+    docker build . -t username-docker/nome-da-imagem
     ```
 - **Descrição:**
-    - Este comando cria uma imagem Docker a partir de um Dockerfile no diretório atual, atribuindo-lhe a tag `matheusbezerralima/my-go-app:1.0`.
+    - Este comando cria uma imagem Docker a partir de um Dockerfile no diretório atual, atribuindo-lhe a tag `username-docker/nome-da-imagem`.
     - O processo de build é detalhado com etapas como:
         - Carregamento do Dockerfile.
         - Cópia de arquivos e configuração do ambiente de execução.
         - Execução de comandos, como a compilação da aplicação Go.
     - **Resultado:**
-        - A imagem é criada com sucesso e está listada como `matheusbezerralima/my-go-app:1.0` com o ID da imagem gerado.
+        - A imagem é criada com sucesso e está listada como `username-docker/nome-da-imagem` com o ID da imagem gerado.
 
 ---
 
@@ -44,7 +44,7 @@
 - **Descrição:**
     - Este comando lista todas as imagens Docker disponíveis localmente.
     - **Resultado:**
-        - Exibe a nova imagem `matheusbezerralima/my-go-app` com a tag `1.0`, além de outras imagens previamente existentes.
+        - Exibe a nova imagem `username-docker/nome-da-imagem` com a tag `1.0`, além de outras imagens previamente existentes.
 
 ---
 
@@ -52,10 +52,10 @@
 
 - **Comando Executado:**
     ```bash
-    docker push matheusbezerralima/my-go-app:1.0
+    docker push username-docker/nome-da-imagem
     ```
 - **Descrição:**
-    - O comando envia a imagem `matheusbezerralima/my-go-app:1.0` para o Docker Hub.
+    - O comando envia a imagem `username-docker/nome-da-imagem` para o Docker Hub.
     - O upload é feito em várias partes, com referências a camadas (layers) da imagem.
     - **Resultado:**
         - As camadas da imagem são enviadas com sucesso, e o digest final da imagem é exibido.
