@@ -25,5 +25,5 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](L
 Caso tenha dúvidas ou sugestões, entre em contato comigo:
 
 - **Email**: [matheusbeducation@gmail.com](mailto:matheusbeducation@gmail.com)
-- **LinkedIn**[https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/matheus-bezerra-lima-156146265/)
+- **LinkedIn**[https://www.linkedin.com/in/matheusbezerralima/](https://www.linkedin.com/in/matheus-bezerra-lima-156146265/)
 
